@@ -25,7 +25,7 @@ This website was built using a focused set of modern web technologies:
 ## 🔗 Quick Links
 
 * **[View Live Site Here](https://personal-website-rust-kappa-63.vercel.app/)** 
-* **[Connect on LinkedIn](https://www.linkedin.com/in/andrei-constantin-dina/)**
+* **[Connect on LinkedIn](https://www.linkedin.com/in/andrei-constantin-dina-54a232239/)**
 
 ---
 
