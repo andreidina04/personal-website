@@ -17,7 +17,7 @@ export default function Navbar() {
         <nav id="container-buttons">
           <ul id="buttons">
               <li><a href="#home" className='buton'>Home</a></li>
-              <li><a href="/cv.pdf" download className='buton'>Resume</a></li>
+              <li><a href="/CV - Dina Andrei-Constantin.pdf" download className='buton'>Resume</a></li>
               <li><a href="#portfolio" className='buton'>Portfolio</a></li>
               <li><a href="#contact" className='buton'>Contact</a></li>
           </ul>
